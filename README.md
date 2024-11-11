@@ -10,7 +10,7 @@
 4. **Turn On Developer mode (Top bright corner)**
 5. **Now Load unpacked and select the extracted file from your local computer**
 6. **Enjoy Facebook in Black and White**:
-   - Visit [YouTube](https://www.facebook.com/).
+   - Visit [Facebook](https://www.facebook.com/).
    - The extension will automatically render all pages in grayscale.
 
 **Note**: If you wish to disable the grayscale mode temporarily, simply go to [Extension](chrome:extensions) and toggle off extension.
