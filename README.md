@@ -13,7 +13,7 @@
    - Visit [Facebook](https://www.facebook.com/).
    - The extension will automatically render all pages in grayscale.
 
-**Note**: If you wish to disable the grayscale mode temporarily, simply go to [Extension](chrome:extensions) and toggle off extension.
+**Note**: If you wish to disable the grayscale mode temporarily, simply go to [Extension](chrome:extensions) and toggle off the extension.
 
 ---
 
