@@ -1,0 +1,17 @@
+{
+    "manifest_version": 3,
+    "name": "Facebook Black & White",
+    "version": "1.0",
+    "description": "This Chrome extension makes Facebook appear in black and white.",
+    "permissions": [
+      "scripting"
+    ],
+    "content_scripts": [
+      {
+        "matches": ["*://www.facebook.com/*"],
+        "css": ["styles.css"],
+        "js": ["content.js"]
+      }
+    ]
+  }
+  
